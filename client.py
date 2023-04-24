@@ -66,7 +66,7 @@ sus_create = False
 
 
 # Connect to project and database
-detaB = deta.Deta(config.api_key)
+detaB = deta.Deta('c0o1g8s9mos_pKBWYmWHNjC9B6QrjEa7jFnWZQekoyD2')
 db = detaB.Base("command")
 
 
