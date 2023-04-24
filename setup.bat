@@ -11,7 +11,8 @@ pip install subprocess.run
 pip install deta
 pip install webbrowser
 pip install time
-
+pip install config
+pip install screeninfo
 echo.
 echo All required libraries have been installed.
 pause
