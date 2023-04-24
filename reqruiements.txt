@@ -1,0 +1,16 @@
+- keyboard
+- mouse
+- os
+- random
+- screeninfo
+- shutil
+- socket
+- subprocess
+- sys
+- threading
+- webbrowser- deta
+- os
+- time
+- deta
+- os
+- time
